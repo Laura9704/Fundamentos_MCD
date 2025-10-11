@@ -4,6 +4,7 @@ integrantes:
 
 Lorena Tongino
 Laura Salazar 
+Julián Meléndez
 
 FA II 2025-II: Pronósticos NN-RNN-LSTM-TCN
 Taller final sobre Fundamentos de Analítica II en Maestría de Ciencia de Datos de la Universidad ICESI
